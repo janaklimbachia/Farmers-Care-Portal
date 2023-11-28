@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\J\\Java"
+		},
+		{
+			"path": "..\\..\\..\\J\\C-PROG"
+		},
+		{
+			"path": "..\\..\\..\\J\\Farmer Care"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "School Management",
+				"database": "school_management",
+				"username": "root",
+				"password": "callmej2002"
+			}
+		]
+	}
+}
